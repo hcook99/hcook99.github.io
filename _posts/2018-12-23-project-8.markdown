@@ -1,0 +1,12 @@
+---
+layout: default
+title: Programming Languages Posted on Indeed
+modal-id: 8
+date: 2018-12-23
+img: Indeed-Logo.png
+alt: image-alt
+project-date: December 2018
+category: Web Development
+description: Is a program that allows a user to enter a location and see the number of jobs that mention a programming language then the languages are added to a list. This list is then output to a graph online.
+
+---

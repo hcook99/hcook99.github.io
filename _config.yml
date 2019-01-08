@@ -1,0 +1,52 @@
+# Site settings
+title: Harrison Cook
+email: cookhl2@vcu.edu
+url: https://hcook99.github.io
+description: "Personal Website to show give information on who I am and what i enjoy to do. This includes adding personal projects I have built."
+keywords: "computer science, software engineer, mobile applications, backend development"
+skills: "Programmer - Developer - Student"
+meta_author: Cook Harrison
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/hcook99
+  - title: instagram
+    url: https://www.instagram.com/cookharrison/
+  - title: linkedin
+    url: https://www.linkedin.com/in/harrison-cook-055a32147/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: Richmond, VA
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

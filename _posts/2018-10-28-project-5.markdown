@@ -1,0 +1,11 @@
+---
+layout: default
+title: Vocify News
+modal-id: 5
+date: 2018-10-28
+img: news.png
+alt: image-alt
+project-date: October 2018
+category: Web Development
+description: Application written in python that takes a url and outputs a audio file to listen to. The application is written using flask, gtts to convert text to speech. Can be used at <a href="https://vocify-news.herokuapp.com">https://vocify-news.herokuapp.com</a>
+---

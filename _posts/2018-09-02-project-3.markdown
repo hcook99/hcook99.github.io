@@ -1,0 +1,12 @@
+---
+layout: default
+title: Google Calendar CLI App
+modal-id: 3
+date: 2018-09-02
+img: gCalCLI.png
+alt: image-alt
+project-date: September 2018
+category: Command Line App
+description: Allows user to add and view calendar events from google calendar on the command line.
+
+---

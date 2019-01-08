@@ -1,0 +1,12 @@
+---
+layout: default
+title: Overwatch Discord Bot
+modal-id: 1
+date: 2017-10-31
+img: discordOver.png
+alt: image-alt
+project-date: October 2017
+category: Bot Development
+description: Chat bot built to be used in discord when the user enters a !heroname in chat the bot will return who that hero is strong and weak against.
+
+---

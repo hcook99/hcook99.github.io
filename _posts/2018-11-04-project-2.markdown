@@ -1,0 +1,12 @@
+---
+layout: default
+title: Tic Tac Toe Android
+modal-id: 2
+date: 2018-11-04
+img: androidTicTacToe.png
+alt: image-alt
+project-date: September 2018
+category: Android Development
+description: Simple game of tic tac toe to get used to android development.
+
+---

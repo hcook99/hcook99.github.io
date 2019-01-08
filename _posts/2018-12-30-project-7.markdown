@@ -1,0 +1,12 @@
+---
+layout: default
+title: Discord Python Bot
+modal-id: 7
+date: 2018-12-30
+img: discordpy.png
+alt: image-alt
+project-date: December 2018
+category: Bot Development
+description: Basic bot that allows people in a discord server to delete messages by voting even if they don't have admin privileges. Built using discord.py
+
+---

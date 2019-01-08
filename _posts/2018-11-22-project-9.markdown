@@ -1,0 +1,12 @@
+---
+layout: default
+title: College Run
+modal-id: 9
+date: 2018-11-22
+img: collegerun.png
+alt: image-alt
+project-date: November 2018
+category: Android Development
+description: This app was a semester long project for my Software Engineering course. The project entailed working on a 4 person team  in which i was appointed the leader to build a game using the LibGDX framework. The app was called College Run because the objective of the game is to run through the semester and to avoid obstacles and collect coffee so your character doesn't run out of energy. I also had to work with students from the art school to implement the assets they created for the game. Here is a link to the game <a href="assets/android-debug.apk">College Run App</>
+
+---
